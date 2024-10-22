@@ -1,0 +1,13 @@
+.spanEdit{
+    paddingLeft:'20px'
+}
+
+.editButton{
+    width: 80px;
+    height: 40px;
+    border-radius: 6px;
+    background-color: rgb(103, 154, 196);
+    font-size: 17px;
+    font-weight: bold;
+    color:darkslategrey ;
+}
